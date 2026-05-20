@@ -15,7 +15,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Shivani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=geetikabatra&hide_border=true&theme=redical)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=geetikabatra"></img>
 ### GitHub Stats
